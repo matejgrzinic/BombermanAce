@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bomb2</file>
+        <file>fire</file>
+        <file>block1</file>
+        <file>zid</file>
+        <file>player2</file>
+        <file>nuke</file>
+        <file>stevilo</file>
+        <file>jan</file>
+        <file>kapppa</file>
+        <file>player4</file>
+        <file>timebomb</file>
+        <file>menu3</file>
+        <file>tipke2</file>
+        <file>tipke1</file>
+        <file>tipke3</file>
+        <file>tipke4</file>
+        <file>ozadje</file>
+        <file>toad</file>
+        <file>bomberman</file>
+        <file>red</file>
+        <file>blue</file>
+        <file>pink</file>
+        <file>green</file>
+        <file>ogenj</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>bomb.mp3</file>
+        <file>background.mp3</file>
+    </qresource>
+</RCC>
